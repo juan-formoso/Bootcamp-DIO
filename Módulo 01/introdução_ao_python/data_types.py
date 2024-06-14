@@ -1,0 +1,12 @@
+print(1)
+print(1.5)
+print(1.5 * 0.3)
+print(100 - 210)
+print(True)
+print(False)
+print("Tio" + 1)
+
+int()
+bool()
+float()
+str()
